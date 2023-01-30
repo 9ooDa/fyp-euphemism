@@ -1,0 +1,1517 @@
+0.9646457702	harm reduction
+0.9616068876	girl scout
+0.9587270834	silk road
+0.9577541036	united states
+0.9564756522	east coast
+0.9551381945	alpha bay
+0.9534453491	dark web
+0.9532897936	credit card
+0.9480645411	energy control
+0.9413685093	vac seal
+0.9396842380	sour diesel
+0.9394280331	vacation mode
+0.9374005981	negative feedback
+0.9359953491	body load
+0.9332235598	postal service
+0.9328797647	reagent test
+0.9324548730	deep web
+0.9323175714	selective scamming
+0.9321311349	law enforcement
+0.9294520952	vacuum seal
+0.9260261572	exit scamming
+0.9229503025	post office
+0.9225102940	moronic monday
+0.9224630981	love letter
+0.9208614386	team trust
+0.9205694112	speed paste
+0.9181053773	begin pgp signed message hash
+0.9166478134	selective scammer
+0.9161967922	direct deal
+0.9159342380	tinfoil hat
+0.9156264458	dark net
+0.9151138556	test kit
+0.9143213162	positive feedback
+0.9127741892	begin pgp signature
+0.9102583001	exit scammed
+0.9093273477	direct deals
+0.9069290183	stay safe
+0.9061527445	xtc pills
+0.9046182679	vacuum sealed
+0.9043965396	small amounts
+0.9029799451	pgp key
+0.9020320952	end pgp signature
+0.8998194112	blue dream
+0.8989142164	trip report
+0.8976388556	helix light
+0.8975235779	electrum wallet
+0.8915889639	exit scam
+0.8907300894	po box
+0.8896348874	onion link
+0.8895614747	tor browser
+0.8875290904	tracking number
+0.8862217422	body high
+0.8825613160	public key
+0.8751101871	customer service
+0.8745997975	greatly appreciated
+0.8727923299	weeks ago
+0.8618064894	darknet markets
+0.8612892095	low profile
+0.8610448913	sourcing questions
+0.8607337802	highly recommend
+0.8587513848	long story short
+0.8490069625	free sample
+0.8473532440	canada post
+0.8431399351	bank account
+0.8424107032	years ago
+0.8416052448	havent heard
+0.8402385532	big deal
+0.8391654762	priority mail
+0.8379757715	havent received
+0.8377194445	positive reviews
+0.8349246970	~ ~
+0.8337223527	return address
+0.8318116093	rare product
+0.8317382751	~ ~ ~ ~ ~
+0.8313797509	months ago
+0.8295833584	detailed checkbox vendor namemarketplace
+0.8235885060	marked shipped
+0.8230373710	100ug lsd
+0.8222934233	detailed checkbox
+0.8204637668	pressed pills
+0.8165123627	stupid questions
+0.8151795816	xanax bars
+0.8117431139	shipping cost
+0.8108082862	products reviewed
+0.8104246462	business days
+0.8100214461	~ ~ ~ ~
+0.8082978064	hours ago
+0.8076654762	white powder
+0.8007745597	~ ~ ~ ~ ~ ~
+0.7901328894	pgp signed message
+0.7661344087	product weight
+0.7619754052	pic url
+0.7595784695	casual vendor reviews and recommendations
+0.7593265957	picture url
+0.7573483947	days ago
+0.7431807665	vendor requires fe
+0.7372681153	darknet market
+0.7360582723	detailed checkbox vendor
+0.7319664836	controlled delivery
+0.7303192280	dream market
+0.7245912172	lsd blotters
+0.7146478397	high quality
+0.7080689755	vendor inquiry
+0.7071377540	setting vendor
+0.7044478938	usa vendor requires fe
+0.7017381508	product inquiry
+0.7005733947	vendor review
+0.6996244083	vendor namemarketplace
+0.6883066934	hansa market
+0.6866116273	market alphabay product
+0.6837296732	shipping speed
+0.6680642081	package arrived
+0.6676787602	list countries
+0.6653506077	detailed checkbox vendor namemarketplace |
+0.6608163975	express shipping
+0.6576523644	lsd tabs
+0.6560349873	shipped monday
+0.6518687785	usa domestic
+0.6502265166	couple days
+0.6473080337	week ago
+0.6451861778	domestic usa
+0.6392688112	1g mdma
+0.6368756383	month ago
+0.6368656150	shipping times
+0.6343247919	ab products reviewed
+0.6329194348	pics url url
+0.6326885962	pgp signature
+0.6305626208	pics url
+0.6300113942	fast shipping
+0.6113898713	alphabay products reviewed
+0.6049380551	pgp signed
+0.5892021113	url url url url
+0.5871788365	free shipping
+0.5792790344	url url url
+0.5685120436	product quality
+0.5616430612	mdma pills
+0.5578775433	straight to black
+0.5518163720	url url url url url
+0.5496163720	url url url url url url
+0.5432035770	mdma international
+0.5375341395	incentives for review
+0.5372881217	top shelf
+0.5366765693	url edit
+0.5324307934	title says
+0.5302049964	usa to usa
+0.5271680972	vendor review partysquadnl
+0.5260274497	top notch
+0.5248510675	stay away
+0.5239579005	marked as shipped
+0.5139924423	requires fe
+0.5134949565	signed message
+0.5094416723	domestic mdma
+0.5049007340	great product
+0.5035131008	international shipping
+0.5015440859	48 hours
+0.5011209257	every single
+0.4951704149	havent seen
+0.4937035118	url url
+0.4932099026	products reviewed |
+0.4903501460	review partysquadnl
+0.4902494081	price value
+0.4900553392	great experience
+0.4885520905	reviewed | 1g
+0.4885350125	begin pgp
+0.4884677408	vendor or product
+0.4870509257	| list countries
+0.4864295352	products reviewed | 1g
+0.4845379531	24 hours
+0.4773291376	pictures url
+0.4765464832	longer than
+0.4730827742	price before shipping
+0.4725490857	vendor service
+0.4695111653	great stealth
+0.4628205517	story short
+0.4608555799	first class
+0.4497788622	within 24 hours
+0.4467611653	domestic order
+0.4467573726	12 hours
+0.4448444986	mdma review
+0.4448058458	long story
+0.4414031372	vendor page
+0.4401861255	havent tried
+0.4341634762	30 minutes
+0.4269486653	vendor account
+0.4252270696	1 gram
+0.4203566737	refrain from
+0.4175121032	alphabay product
+0.4106151168	= = = = =
+0.4086580522	feel free to
+0.4036873620	1 oz
+0.4025663031	alphabay products reviewed |
+0.3997791020	days later
+0.3990970546	feel free
+0.3989557853	few months
+0.3966153319	mdma vendor
+0.3965567461	market alphabay
+0.3948971092	7 days
+0.3919862671	dealt with
+0.3919230222	off topic
+0.3891153319	lsd vendor
+0.3863107451	alphabay products
+0.3853931097	vendor reviews
+0.3837583646	last night
+0.3828863519	last week
+0.3705650230	thought id
+0.3690945160	thanks in advance
+0.3635163913	= = = = = =
+0.3624248558	great vendor
+0.3609587296	23 days
+0.3584109669	domestic vendor
+0.3580988089	t +
+0.3579330633	hours later
+0.3564234391	safe to order
+0.3553072489	talking about
+0.3552319555	price before shipping |
+0.3539101499	details vendor
+0.3511193002	ab vendor
+0.3465318106	an hour
+0.3458154972	| 10 10
+0.3446878962	an ounce
+0.3438663403	usa vendor
+0.3431269294	two weeks
+0.3406474906	fucked up
+0.3403869344	tons of
+0.3357139338	talk about
+0.3353350024	most likely
+0.3325332118	unable to
+0.3292022966	small order
+0.3283356108	lots of
+0.3239639457	couldnt find
+0.3228130028	personal use
+0.3189861735	vendor namemarketplace |
+0.3182958799	2 weeks
+0.3182123313	lack of
+0.3140638342	few weeks
+0.3137619255	youre doing
+0.3133895598	$ 200
+0.3127055161	much appreciated
+0.3097880028	guys think
+0.3090528255	wondering if anyone
+0.3085037845	$ 1000
+0.3063117021	doesnt seem
+0.3026066733	3 days
+0.3025528998	at least
+0.3003135217	vouch for
+0.3000188708	no complaints
+0.2998295835	small amount
+0.2965472790	last year
+0.2945871178	$ 500
+0.2939714374	kind of
+0.2938826986	ive heard
+0.2918054021	pretty much
+0.2917971642	10 10
+0.2912477611	worry about
+0.2885204512	never showed
+0.2858729484	supposed to
+0.2854083901	anybody else
+0.2844102780	dont understand
+0.2826704512	$ 40
+0.2816282975	no response
+0.2805509787	compared to
+0.2792924081	interested in
+0.2792055161	hasnt arrived
+0.2786853391	6 days
+0.2784558297	2 weeks ago
+0.2783041702	a lot
+0.2780238311	any input
+0.2771609084	rather than
+0.2748099517	time of year
+0.2746898124	4 days
+0.2742171847	thinking about
+0.2741611638	| | details vendor |
+0.2723483733	8 days
+0.2711432850	as good as
+0.2711297729	1 g
+0.2704968247	+ + + + + +
+0.2700489324	no longer
+0.2698348201	3 weeks
+0.2679404969	less than
+0.2647903768	wondering if
+0.2636741807	| yes
+0.2635209664	ever seen
+0.2611123736	= =
+0.2606587698	a month ago
+0.2575560461	few days
+0.2572449933	30 days
+0.2565631959	| | | | |
+0.2560891630	a controlled delivery
+0.2545786849	to announce
+0.2524888494	10 minutes
+0.2524067057	next day
+0.2508948842	too lazy to
+0.2502413275	a little bit
+0.2501300413	scammed by
+0.2486844080	| | | |
+0.2483395901	shipping time
+0.2476841416	an oz
+0.2469402314	three days
+0.2453797999	pretty good
+0.2453667493	many times
+0.2448981309	make sure
+0.2444888494	definitely recommend
+0.2435641073	coming back
+0.2434706703	= = =
+0.2429413308	anyone else
+0.2427171847	worried about
+0.2422012121	little bit
+0.2421655302	better than
+0.2420528928	as long as
+0.2417195595	as far as
+0.2414918326	5 days
+0.2392534557	some sort
+0.2386282820	according to
+0.2384416755	experience with
+0.2379616144	in advance
+0.2378225493	in transit
+0.2375862484	able to
+0.2364493637	pretty sure
+0.2360146734	piece of
+0.2353425754	ive seen
+0.2341600357	in terms of
+0.2328624166	as soon as
+0.2318520110	wanting to
+0.2305373216	pleased with
+0.2295624778	details vendor |
+0.2275986068	+ + +
+0.2270367263	looked like
+0.2262608871	on alpha bay
+0.2258504689	either way
+0.2250260248	a week ago
+0.2223028928	this thread to ask
+0.2218515039	whats going on
+0.2214687179	felt like
+0.2211966416	very professional
+0.2169494083	2 days
+0.2166864308	plenty of
+0.2160754168	planning on
+0.2146158663	an answer
+0.2137913497	a bit
+0.2125817299	dealing with
+0.2125660303	lets get
+0.2125029150	due to
+0.2121530912	in front of
+0.2116898648	ordering from
+0.2107364435	ask questions
+0.2105484736	does anyone know
+0.2104147858	check out
+0.2104089793	new years
+0.2100699133	something else
+0.2098508747	xpost from
+0.2097348595	willing to
+0.2092182739	props to
+0.2086497552	2 grams
+0.2077288497	a couple
+0.2053358053	never arrived
+0.2037823310	same thing
+0.2028967642	a few
+0.2025533930	money back
+0.2019828718	shipped within
+0.2012089793	very potent
+0.2004403105	looking to buy
+0.1979864246	cant seem to
+0.1977113464	any advice
+0.1968753135	id like to
+0.1967815315	ordered from
+0.1953432367	anyone heard
+0.1951699211	on ab
+0.1946766073	looked at
+0.1941205885	as advertised
+0.1934364308	threw in
+0.1925573018	any suggestions
+0.1923189865	too much
+0.1919489976	4 hours
+0.1908817204	+ + + + +
+0.1898201908	im pretty sure
+0.1892504168	ton of
+0.1888595024	a full review
+0.1880396214	right now
+0.1880272805	an issue
+0.1878463334	experiences with
+0.1871339437	looks like
+0.1870396214	more than
+0.1869040765	reviewed |
+0.1863073310	$ 50
+0.1859458263	a bunch of
+0.1859414219	very strong
+0.1858246831	this guy
+0.1856494807	too lazy
+0.1845070477	based on
+0.1832388619	within 24
+0.1829776842	two days
+0.1824143656	on alphabay
+0.1818475960	feel like
+0.1809177619	logged in
+0.1803845923	small amount of
+0.1800788731	bunch of
+0.1799364976	very happy
+0.1792886011	a good idea
+0.1781637273	no idea
+0.1777554911	few hours
+0.1769479154	ive read
+0.1769119428	question about
+0.1766211097	| details
+0.1746781712	the dark net
+0.1740239038	same day
+0.1736998310	no proof
+0.1736766073	impressed with
+0.1732751754	wanted to
+0.1730459546	happened to
+0.1726750777	market |
+0.1725555665	+ + + +
+0.1723670835	alot of
+0.1721637273	just curious
+0.1717564402	other markets
+0.1708194644	satisfied with
+0.1703240003	in order to
+0.1687440065	opinions on
+0.1687053723	so far
+0.1679280672	from nl
+0.1676031643	still havent
+0.1669259207	$ 100
+0.1661419683	sort of
+0.1659600366	a week
+0.1645901084	on par with
+0.1645323310	very clean
+0.1644418420	decided to
+0.1639407619	someone else
+0.1639137273	an extra
+0.1637356531	a lot of
+0.1636563602	even though
+0.1633750058	| usa
+0.1633420474	order from
+0.1626081718	no reason
+0.1620868637	log in
+0.1619471578	get caught
+0.1606592249	im thinking
+0.1603095390	of course
+0.1597888245	3 hours
+0.1596337501	ships from
+0.1595725239	type of
+0.1588918076	i highly recommend
+0.1578408264	incentives for
+0.1545967642	as well
+0.1544504337	very nice
+0.1542802619	attempt to
+0.1542440442	the dark web
+0.1536220168	i dont think
+0.1531726157	a love letter
+0.1531145820	im gonna
+0.1519459673	very quick
+0.1517316525	10 days
+0.1516450724	no price before shipping
+0.1509418420	starting to
+0.1505720390	if youre
+0.1505291994	a few days
+0.1492211350	long time
+0.1491415765	permission to
+0.1476183624	a darknet market
+0.1473975366	i guess
+0.1463947912	please let
+0.1461066439	comment on
+0.1460642033	the past
+0.1460225291	a po box
+0.1455428357	an order
+0.1449874770	waiting on
+0.1449204135	waiting for
+0.1449053723	a little
+0.1445928288	a single
+0.1436618096	plan on
+0.1434471578	$ 20
+0.1433929911	im curious
+0.1431267627	buy from
+0.1421285824	id say
+0.1419172771	looking for
+0.1411503016	continue to
+0.1409184293	buying from
+0.1405644375	days after
+0.1392937237	no decoy
+0.1392387056	trying to
+0.1390205094	2 hours
+0.1386142033	i ordered
+0.1383929911	some reason
+0.1379053723	the same
+0.1379023919	go through
+0.1377336350	difficult to
+0.1372651479	par with
+0.1369184293	bought from
+0.1368085067	first time
+0.1364053723	going to
+0.1360236042	product |
+0.1357669683	ready to
+0.1357669683	forward to
+0.1356289219	not showing
+0.1351565553	no price before shipping |
+0.1349099894	the post office
+0.1343967540	different vendors
+0.1342728904	really nice
+0.1341762056	instead of
+0.1334754587	this thread
+0.1331538428	never received
+0.1330792216	on hansa
+0.1330263245	any problems
+0.1328388245	more information
+0.1325376733	anyone tried
+0.1325157778	shipping took
+0.1323205397	prior to
+0.1318939038	| list
+0.1316377672	no vendor requires fe
+0.1315266561	on dream market
+0.1312212670	on vacation
+0.1309847050	no problem
+0.1308032475	from germany
+0.1307187778	very fast
+0.1303054911	only thing
+0.1302696198	access to
+0.1302696198	close to
+0.1302236438	want to buy
+0.1301313172	best way to
+0.1296818333	still hasnt
+0.1293414468	this vendor
+0.1292696198	number of
+0.1287763245	an option
+0.1283432219	a small amount
+0.1283164216	ounce of
+0.1269746761	new account
+0.1257328864	once again
+0.1255640701	any info
+0.1248532475	some advice
+0.1247276826	marked as
+0.1245116186	on par
+0.1242608106	guide for
+0.1242174789	curious if
+0.1231894590	does anyone
+0.1231029531	forgot to
+0.1225904531	grams of
+0.1220455397	stuck in
+0.1219354908	any experience with
+0.1217824286	anything else
+0.1217274900	other vendors
+0.1216357872	$ 10
+0.1209977334	order again
+0.1204090769	ive gotten
+0.1200466019	ive never
+0.1191365765	terms of
+0.1188270030	these guys
+0.1186765553	too good to
+0.1186000549	a month
+0.1178154442	just wanted to
+0.1178043150	someone please
+0.1171169683	allowed to
+0.1166395714	every day
+0.1159821108	a long time
+0.1159433036	i chose
+0.1158044683	sign for
+0.1155396112	on myusps
+0.1150719344	a few times
+0.1147901916	very good
+0.1147190246	hard to
+0.1135969960	every time
+0.1134201450	im sure
+0.1126864613	letter from
+0.1126790805	i dont know
+0.1126229207	thoughts on
+0.1125458882	on dream
+0.1124860791	other than
+0.1112362865	respond to
+0.1110955238	does anybody
+0.1110719344	a few hours
+0.1108152499	ive tried
+0.1107837814	want to
+0.1101737865	safe to
+0.1100443333	each other
+0.1100443333	ive done
+0.1100240952	went through
+0.1100111563	im just wondering
+0.1098280704	ive ever
+0.1075098886	im not sure
+0.1074276667	much better
+0.1074086350	aware of
+0.1069743401	level of
+0.1066395714	too many
+0.1065904531	ship to
+0.1065436042	hours after
+0.1060467216	the vendor
+0.1059650327	bit more
+0.1058645571	no issues
+0.1052833175	few times
+0.1051527458	anyone ever
+0.1049650327	lazy to
+0.1045141963	from canada
+0.1044847050	any questions
+0.1044571198	easy to
+0.1042824286	please help
+0.1042760183	come back
+0.1042598886	anyone ordered from
+0.1041702283	seems like
+0.1039302460	along with
+0.1036433630	a few weeks
+0.1031737865	issues with
+0.1030595390	the best
+0.1030071198	list of
+0.1028848257	$ 5
+0.1028752480	a tiny
+0.1028593517	cant find
+0.1027987865	amounts of
+0.1020401916	any other
+0.1020004481	i know
+0.1019610833	never used
+0.1019423187	didnt want
+0.1017598886	dont know
+0.1017311042	vendor name
+0.1016732872	on tmg
+0.1015155852	on nucleus
+0.1007663821	anyone know
+0.1007311042	mdma from
+0.1004450327	quality |
+0.1002110000	many people
+0.1000293478	in fact
+0.0997927100	amount of
+0.0996737865	pay for
+0.0995961350	problems with
+0.0994265412	an exit
+0.0993593517	going through
+0.0992217127	the fact
+0.0991737865	state of
+0.0990989185	on point
+0.0987987865	thinking of
+0.0982933630	first order
+0.0980913571	anyone knows
+0.0980697519	i figured
+0.0974176054	a few months
+0.0971931465	the same thing
+0.0970688263	+ +
+0.0965205238	by far
+0.0961737865	contact with
+0.0958965878	an onion
+0.0958464474	im wondering
+0.0954860791	any sort of
+0.0950932219	just wondering if
+0.0950667216	i havent
+0.0949867860	things about
+0.0949265553	a ton of
+0.0946369236	an update
+0.0944202100	a ton
+0.0943940246	coming from
+0.0942072946	pic of
+0.0941737865	similar to
+0.0939373565	just wondering
+0.0937603249	care of
+0.0933033452	such as
+0.0931737865	responded to
+0.0928752480	to win
+0.0928197519	i messaged
+0.0925011674	compare to
+0.0917987865	deal with
+0.0916197519	this point
+0.0915641136	go into
+0.0911864613	oz of
+0.0911808630	a noob
+0.0910667216	the product
+0.0910103249	hoping to
+0.0910074142	any posts
+0.0906040898	a tracking number
+0.0902687196	a new vendor
+0.0901808630	a cd
+0.0901342721	ive ordered
+0.0894153230	in 3 days
+0.0893780205	looking at
+0.0893654442	i wanted to
+0.0892603249	arrived in
+0.0888798307	so i ordered
+0.0887705238	never seen
+0.0886154442	i decided to
+0.0885641136	1 day
+0.0884265553	i live in
+0.0883739613	nl to
+0.0882983661	community as
+0.0881765553	just wondering if anyone
+0.0878894449	any sort
+0.0878739613	picture of
+0.0877072946	talk to
+0.0876510056	the middle
+0.0875644375	order with
+0.0871157849	| | |
+0.0871110250	im not
+0.0867941206	no smell
+0.0866678482	in 2 days
+0.0864008882	the package
+0.0861083103	advice on
+0.0858167216	to buy
+0.0857136136	i just wanted
+0.0854934784	to kill
+0.0854807802	anybody know
+0.0853114613	live in
+0.0852072946	half of
+0.0852072946	tabs from
+0.0844717127	the moment
+0.0844654531	happy with
+0.0844572946	worth of
+0.0843739613	pictures of
+0.0840812418	as fuck
+0.0840016963	on dhl
+0.0837489613	asked for
+0.0836419399	find anything
+0.0834989613	heard from
+0.0830406280	straight to
+0.0830406280	gram of
+0.0830321108	the next day
+0.0830070662	i knew
+0.0829530852	i thought
+0.0829208882	a small
+0.0825093766	i think
+0.0824265553	a picture of
+0.0820406280	pills from
+0.0819676054	good reviews
+0.0818375549	the dnms
+0.0817411660	a vendor
+0.0815406280	bit of
+0.0814654531	click to
+0.0814654531	heard of
+0.0811656280	couple of
+0.0809265553	i just want to
+0.0806239613	delivered to
+0.0806239613	reviews on
+0.0804765553	i dont want to
+0.0802603249	wait for
+0.0802598886	very happy with
+0.0802489613	business with
+0.0800429411	dont want
+0.0798739613	reply to
+0.0796358661	lsd from
+0.0796239613	happy to
+0.0795151287	good prices
+0.0794989613	info on
+0.0794989613	paid for
+0.0793739613	orders from
+0.0793332472	i want to
+0.0792648711	to get
+0.0791726633	this sub
+0.0791239613	tabs of
+0.0790406280	1g of
+0.0790376664	dont want to
+0.0785146505	to talk to
+0.0783739613	canada to
+0.0783590950	the last few
+0.0780406280	pack from
+0.0777039613	shipping |
+0.0774989613	reason for
+0.0774989613	happen to
+0.0772072946	sample of
+0.0771682802	seem like
+0.0770406280	btc from
+0.0770406280	shipped from
+0.0768373692	a bunch
+0.0764513423	wrong with
+0.0762072946	drugs on
+0.0762072946	started to
+0.0762072946	feedback on
+0.0762072946	drugs in
+0.0759572946	love to
+0.0757906280	ordered on
+0.0757410903	any information
+0.0757029664	the whole
+0.0754987418	the order
+0.0753322946	end of
+0.0752062418	a great
+0.0750406280	pics of
+0.0749572946	shipping to
+0.0749572946	shipped on
+0.0749572946	shipped to
+0.0748657494	last few
+0.0747906280	reviews for
+0.0743328238	the rest
+0.0742598886	not sure if
+0.0742072946	link to
+0.0741475296	the future
+0.0740406280	thought i
+0.0740376664	anyone order from
+0.0739572946	btc to
+0.0739460813	the exact
+0.0737906280	uk to
+0.0735282653	deals for
+0.0735228363	this dude
+0.0735227783	good idea
+0.0729407872	this strain
+0.0728114613	lot of
+0.0727072946	needed to
+0.0724765553	to see if
+0.0723035903	this subreddit
+0.0722062418	i received
+0.0720406280	information on
+0.0720406280	quick to
+0.0720406280	package from
+0.0719543184	rest of
+0.0717136136	so i decided
+0.0716491691	| 10
+0.0715862997	i got
+0.0714765553	as well as
+0.0713469469	do not order
+0.0712062418	the price
+0.0711153327	a nice
+0.0710662651	anyone bought
+0.0710406280	arrived on
+0.0710376664	want to know
+0.0706518300	not sure
+0.0705598886	the rest of
+0.0705572946	month of
+0.0704407656	these days
+0.0701919632	full review
+0.0699551054	new vendors
+0.0699051054	this stuff
+0.0697906280	hours of
+0.0696640553	i feel like
+0.0696640553	a couple of
+0.0696640553	the first time
+0.0694539613	vendor |
+0.0692239613	reason to
+0.0690398886	a link to
+0.0690129411	i just want
+0.0687884387	good stuff
+0.0686915125	last time
+0.0686640553	i need to
+0.0685862997	i placed
+0.0685814166	very small
+0.0684539613	nice to
+0.0680717721	i noticed
+0.0679989613	update on
+0.0679460813	i hate
+0.0678520751	on alpha
+0.0676822946	days now
+0.0675875549	the community
+0.0674226633	outside of
+0.0673322946	point of
+0.0672043331	i dont see
+0.0672013423	week of
+0.0671703995	a vpn
+0.0670932219	im not sure if
+0.0670717721	a huge
+0.0666640553	the quality of
+0.0666349469	hes got
+0.0665862997	i dont
+0.0665598886	i dont know if
+0.0665580238	or otherwise
+0.0663322946	question for
+0.0660572946	dispute on
+0.0659737329	the entire
+0.0658807219	to deal with
+0.0658730277	| |
+0.0658224469	ok so
+0.0657751664	im looking for
+0.0656932219	the end of
+0.0656406280	quality of
+0.0653322946	orders with
+0.0648419147	a shot
+0.0647712562	of stock
+0.0647712562	on sunday
+0.0646974469	came back
+0.0645982045	do not
+0.0645862997	i cant
+0.0643072946	shipped in
+0.0640926054	on reddit
+0.0640822946	days from
+0.0640511136	day shipping
+0.0639948711	so i
+0.0638962745	want to make
+0.0638807219	the best way to
+0.0638807219	in less than
+0.0638362997	a good
+0.0636369236	this situation
+0.0635862997	need to
+0.0634977896	ive used
+0.0634559387	a review
+0.0630237329	the worst
+0.0628692954	no communication
+0.0626278995	a ticket
+0.0624076198	i fed
+0.0623615987	problem with
+0.0623072946	free to
+0.0623070662	the holidays
+0.0622409531	on tuesday
+0.0618807219	a way to
+0.0618072946	guys i
+0.0618072946	place to
+0.0617892721	the stealth
+0.0616903995	i contacted
+0.0616426054	this shit
+0.0612837745	the bottom
+0.0612802802	good stealth
+0.0612128690	3 day
+0.0611759387	a message
+0.0608778995	the fbi
+0.0606729084	the market
+0.0606709997	i cant find
+0.0606217721	another vendor
+0.0599551054	new vendor
+0.0599460813	the dn
+0.0598807219	a gram of
+0.0597712562	on saturday
+0.0597384387	in case
+0.0595473886	an order with
+0.0595302802	anyone ordered
+0.0590511136	very high
+0.0588807219	to order from
+0.0586709997	the only one
+0.0586683630	i hope
+0.0585395751	the dnm
+0.0582477896	look at
+0.0582021505	a pack from
+0.0580294147	the biggest
+0.0578807219	i did not
+0.0578807219	a look at
+0.0578636136	good quality
+0.0577592721	a gram
+0.0576796078	very little
+0.0576346756	wait to
+0.0572200118	for example
+0.0572021505	so i decided to
+0.0571282656	any experience
+0.0569918331	a bit of
+0.0568807219	i went to
+0.0568584997	im going to
+0.0567798293	get fucked
+0.0567115987	case of
+0.0566462745	way to get
+0.0563092721	the pack
+0.0563092721	a package
+0.0561759387	the darknet
+0.0561644563	anyone seen
+0.0561045895	in europe
+0.0559918331	a bit more
+0.0558807219	i just wanted to
+0.0558778995	a shill
+0.0558043331	do i do
+0.0557629411	anyone used
+0.0557480833	good things
+0.0552112329	a slight
+0.0551612329	the netherlands
+0.0550894380	the internet
+0.0548807219	any way to
+0.0548807219	i do not
+0.0548778995	a mod
+0.0545962745	no way
+0.0544739801	next time
+0.0544379228	on thursday
+0.0544259387	i felt
+0.0543132616	i didnt get
+0.0543132616	just trying to
+0.0543092721	i feel
+0.0542796078	i dont want
+0.0541790125	really good
+0.0540540359	to respond
+0.0540273253	and decided to
+0.0538926054	in escrow
+0.0538757616	a lot of people
+0.0538573253	a + + +
+0.0537177802	another order
+0.0533778995	i ended
+0.0533092721	the markets
+0.0533092721	i bought
+0.0532112329	a sheet
+0.0529557983	any help
+0.0529259387	a problem
+0.0529196330	i took
+0.0528248459	trying to get
+0.0528092721	a pack
+0.0528051031	this thread to
+0.0527894521	anyone know if
+0.0525592721	i started
+0.0524759387	in mind
+0.0524081792	other people
+0.0523092721	the mail
+0.0521384365	to buy from
+0.0519918331	im trying to
+0.0519330743	the superlist
+0.0517177802	any market
+0.0516726633	seem to
+0.0514717698	an order from
+0.0513422604	i used to
+0.0513092721	i love
+0.0511426054	on friday
+0.0510592721	a half
+0.0510540359	a scammer
+0.0509196330	to make
+0.0508926054	to start
+0.0508778995	the original
+0.0508092721	the site
+0.0506584997	to make sure
+0.0506041439	this community
+0.0505075118	still nothing
+0.0504533715	i ordered from
+0.0502864077	to create
+0.0501384365	an order for
+0.0500592721	a friend
+0.0500559967	i believe
+0.0500307441	i just
+0.0499727896	as possible
+0.0498584997	the same time
+0.0498011136	no package
+0.0497592721	a big
+0.0497177802	im pretty
+0.0496426054	the fuck
+0.0496041439	this issue
+0.0493778995	the actual
+0.0493132616	i dont really
+0.0492945662	the weekend
+0.0491384365	do i need
+0.0490592721	i opened
+0.0490273253	last time i
+0.0489727896	at once
+0.0488778995	i assume
+0.0487115987	chance to
+0.0487115987	long as
+0.0486184365	and i didnt
+0.0485073253	i thought i
+0.0483926054	a dispute
+0.0483778995	i wanted
+0.0483105833	any vendors
+0.0482418331	the same day
+0.0481426054	a reship
+0.0481426054	on agora
+0.0481384365	dont know if
+0.0481384365	to know if
+0.0480307441	to do
+0.0480307441	i did
+0.0480273253	i tried to
+0.0478092721	to send
+0.0477830743	a guide
+0.0476184365	to go to
+0.0473778995	the current
+0.0471426054	on monday
+0.0470592721	i paid
+0.0469684365	a + +
+0.0469530743	to sign
+0.0467745662	the police
+0.0467177802	good price
+0.0467112329	the street
+0.0466729084	this morning
+0.0464759387	i understand
+0.0464534404	these vendors
+0.0463194380	the buds
+0.0462592721	i asked
+0.0462182441	a new
+0.0461696330	came in
+0.0461384365	but i cant
+0.0461384365	but i think
+0.0457504411	if anyone
+0.0456041439	to contact
+0.0453030743	to figure
+0.0452182441	to see
+0.0452182441	i didnt
+0.0451384365	to do with
+0.0451262345	in general
+0.0449530743	i waited
+0.0448394380	a refund
+0.0447508105	the transaction
+0.0447112329	i checked
+0.0446440775	if i
+0.0446197410	to mention
+0.0445837745	part of
+0.0444330743	a onion
+0.0443778995	the case
+0.0442970079	i think i
+0.0442922826	not going to
+0.0442922826	an order on
+0.0442922826	but im not
+0.0442089493	didnt really
+0.0442030743	the packaging
+0.0441426054	i read
+0.0441426054	a sample
+0.0441393300	i saw
+0.0441278995	the problem
+0.0440351633	going on
+0.0439530743	a letter
+0.0439530743	of acid
+0.0439406467	look like
+0.0439286462	a little more
+0.0437112329	to provide
+0.0436041439	to ship
+0.0434759387	a decent
+0.0433778995	the bag
+0.0432922826	but i dont
+0.0432922826	to get to
+0.0432182441	to say
+0.0431727713	i purchased
+0.0431426054	i remember
+0.0429530743	to pick
+0.0429530743	the subreddit
+0.0429530743	the postal
+0.0429286462	want to get
+0.0428778995	to avoid
+0.0428394380	a reason
+0.0428315775	i get
+0.0427480833	any reviews
+0.0427112329	a response
+0.0427030743	the blockchain
+0.0426344469	the money
+0.0426041439	to sell
+0.0424790125	time to get
+0.0424530743	a piece
+0.0422864077	to lose
+0.0422415359	to hear
+0.0421729084	this problem
+0.0419530743	i finally
+0.0417171078	able to get
+0.0417030743	a fake
+0.0414759387	this week
+0.0414330743	the music
+0.0413778995	a chance
+0.0413030743	to talk
+0.0412864077	a picture
+0.0412177802	this review
+0.0412112329	the world
+0.0411337745	so im
+0.0411337745	if so
+0.0409530743	the difference
+0.0409530743	the door
+0.0409530743	a tab
+0.0409530743	a bar
+0.0409530743	the correct
+0.0409530743	the country
+0.0409530743	the rules
+0.0408394380	to receive
+0.0407030743	the purchase
+0.0407030743	the general
+0.0407030743	the weight
+0.0407030743	for sale
+0.0407030743	a high
+0.0406849108	the first
+0.0405837745	did not
+0.0405515775	the last
+0.0404759387	to arrive
+0.0404759387	a large
+0.0404330743	the mod
+0.0403030743	no price
+0.0403030743	to run
+0.0402922826	i just got
+0.0402504411	a whole
+0.0402177802	this post
+0.0401337745	im just
+0.0400511136	as shipped
+0.0399879411	to use
+0.0399530743	the house
+0.0399530743	i decided
+0.0399530743	the results
+0.0399530743	i plan
+0.0399530743	a link
+0.0399530743	the clearnet
+0.0399530743	the eu
+0.0399530743	that shit
+0.0399286462	so i cant
+0.0398546078	to find
+0.0397030743	the mods
+0.0395364077	the main
+0.0394677802	a quick
+0.0394677802	of weed
+0.0394379411	asking for
+0.0392864077	to stay
+0.0392864077	to write
+0.0392504411	a year
+0.0392256159	to talk about
+0.0392182441	to try
+0.0392177802	to order
+0.0391830743	the envelope
+0.0391197410	the title
+0.0389671078	very well
+0.0389589493	just want to
+0.0389530743	i left
+0.0389530743	i looked
+0.0389530743	i dispute
+0.0389530743	to read
+0.0389530743	the process
+0.0389530743	the link
+0.0389530743	the search
+0.0389530743	a buyer
+0.0389374772	a scam
+0.0387030743	the deal
+0.0387030743	i buy
+0.0387030743	a test
+0.0387030743	a drug
+0.0386849108	the other
+0.0386667107	just wanted
+0.0386144469	a market
+0.0384530743	the high
+0.0384530743	the stuff
+0.0384330743	the person
+0.0384330743	the customer
+0.0382182441	a while
+0.0382177802	of mdma
+0.0381830743	the drug
+0.0381830743	the powder
+0.0379879411	i made
+0.0379530743	the recent
+0.0379530743	to stop
+0.0379530743	to leave
+0.0379530743	a drop
+0.0379330743	the box
+0.0377030743	the bud
+0.0377030743	i lost
+0.0377030743	a domestic
+0.0376874772	a bad
+0.0374980833	on dnm
+0.0374677802	this order
+0.0374677802	this product
+0.0374530743	the uk
+0.0374530743	the usa
+0.0374530743	to test
+0.0374519563	sorry if
+0.0373030743	to black
+0.0373030743	to update
+0.0372922826	so i just
+0.0372922826	so i got
+0.0372864077	a regular
+0.0371830743	the trip
+0.0371222826	i know i
+0.0370530743	a darknet
+0.0370530743	a pretty
+0.0369879411	to take
+0.0369530743	i needed
+0.0369530743	the potency
+0.0369530743	to sleep
+0.0369330743	the weed
+0.0367830743	i wait
+0.0367830743	a po
+0.0367830743	a ~
+0.0367480833	so long
+0.0367030743	the effects
+0.0367030743	the risk
+0.0367030743	the wrong
+0.0367030743	a dnm
+0.0366671078	know if
+0.0366409404	this normal
+0.0365364077	the game
+0.0365330743	the tor
+0.0365330743	from alphabay
+0.0364762345	a controlled
+0.0364530743	the point
+0.0363604644	ive made
+0.0363212745	try to
+0.0362864077	i expected
+0.0362864077	the situation
+0.0362177802	a question
+0.0362177802	a post
+0.0361830743	the feedback
+0.0361830743	the taste
+0.0359530743	the seller
+0.0359530743	the listing
+0.0359530743	this weekend
+0.0359530743	the issue
+0.0359530743	the picture
+0.0359530743	i told
+0.0359530743	to dispute
+0.0359530743	to pay
+0.0359330743	the address
+0.0358004411	this time
+0.0357030743	the night
+0.0357030743	the post
+0.0357030743	the coke
+0.0357030743	to purchase
+0.0356937978	still around
+0.0354530743	a long
+0.0353212745	the time
+0.0353212745	i need
+0.0353212745	used to
+0.0353212745	a different
+0.0352864077	to date
+0.0352177802	the quality
+0.0352177802	i recently
+0.0351830743	the smell
+0.0351830743	the tracking
+0.0350948620	know whats
+0.0350504411	even if
+0.0350364077	a real
+0.0350364077	the end
+0.0349530743	to share
+0.0349530743	the extra
+0.0348546078	go to
+0.0347864077	the real
+0.0347864077	the guy
+0.0346197410	a pic
+0.0343212745	i sent
+0.0343212745	i see
+0.0343212745	i found
+0.0342864077	i live
+0.0342864077	i doubt
+0.0341349108	thanks for
+0.0340504411	or something
+0.0340364077	a decoy
+0.0340364077	a guy
+0.0340364077	a thing
+0.0339530743	i fucked
+0.0339530743	i gave
+0.0339530743	a purchase
+0.0339141316	sorry for
+0.0337171078	or anything
+0.0337030743	to feel
+0.0337030743	to check
+0.0336364077	to log
+0.0335511136	to post
+0.0333212745	a day
+0.0333167107	to expect
+0.0333030743	to worry
+0.0332864077	in canada
+0.0332864077	i expect
+0.0332864077	to set
+0.0332864077	a legit
+0.0332864077	the reason
+0.0331511136	anyone order
+0.0330511136	from ab
+0.0330364077	the forums
+0.0330364077	a free
+0.0330364077	to wait
+0.0329530743	to add
+0.0328599649	so much
+0.0325422826	very much
+0.0323212745	i tried
+0.0323212745	the way
+0.0323167107	a mistake
+0.0323004411	much more
+0.0322922826	the best ive
+0.0322922826	so i dont
+0.0322864077	the holiday
+0.0322864077	a marketplace
+0.0322864077	to open
+0.0322864077	a solid
+0.0322059731	dont need
+0.0321879411	the next
+0.0321262345	with pics
+0.0319833774	i highly
+0.0319530743	the job
+0.0319530743	a direct
+0.0317828129	because i
+0.0315422826	very very
+0.0314519563	none of
+0.0313864077	to place
+0.0313333774	the deep
+0.0312864077	the man
+0.0312864077	the usual
+0.0312864077	i heard
+0.0309833774	a reliable
+0.0309489801	whats up
+0.0309286462	ive got
+0.0308004411	something like
+0.0306364077	the dark
+0.0306364077	a trip
+0.0306364077	to answer
+0.0306264493	i do
+0.0306197410	a similar
+0.0305184731	dont think
+0.0302864077	the morning
+0.0300631159	good enough
+0.0298004411	back up
+0.0296422826	a vendor on
+0.0295712745	the second
+0.0294432983	any way
+0.0294379411	i mean
+0.0293212745	new to
+0.0293212745	to go
+0.0281546078	i wish
+0.0277828129	the day
+0.0277297826	cant get
+0.0274448620	soon as
+0.0274048367	im still
+0.0273212745	if someone
+0.0272379411	im looking
+0.0272089493	never got
+0.0271464493	the only
+0.0271262345	of reddit
+0.0268756159	dont even
+0.0265712745	i couldnt
+0.0265119796	didnt get
+0.0263453129	any good
+0.0263212745	i want
+0.0263004411	a certain
+0.0262089493	im very
+0.0261337745	some people
+0.0257684731	some other
+0.0257297826	as much
+0.0256546078	a second
+0.0255597826	| | | | | |
+0.0252089493	even more
+0.0251161462	as always
+0.0250184731	got here
+0.0246546078	the top
+0.0246546078	to keep
+0.0242922826	some good
+0.0242089493	im getting
+0.0240797826	im trying
+0.0239559731	anything about
+0.0237297826	to move
+0.0236546078	i wouldnt
+0.0235422826	im really
+0.0232379411	full of
+0.0232297826	on here
+0.0231307983	away from
+0.0227684731	just got
+0.0226546078	a full
+0.0226546078	seemed to
+0.0224797826	not even
+0.0223661462	this year
+0.0222922826	out there
+0.0222059731	cant really
+0.0222059731	dont see
+0.0221464493	the right
+0.0221464493	some time
+0.0218756159	anyone here
+0.0217059731	can anyone
+0.0209879411	ask for
+0.0209559731	the best way
+0.0209559731	not much
+0.0207297826	because im
+0.0202297826	like to
+0.0200712745	on top
+0.0198661462	to come
+0.0197297826	until i
+0.0197297826	sure if
+0.0197097826	as i
+0.0192297826	sent to
+0.0192059731	dont get
+0.0191464493	so many
+0.0190797826	im going
+0.0189559731	go about
+0.0188131159	not really
+0.0187297826	dont really
+0.0184797826	the amount
+0.0184797826	i always
+0.0184797826	i go
+0.0184797826	more of
+0.0182297826	i also
+0.0180797826	as far
+0.0180631159	took about
+0.0177097826	i never
+0.0174797826	i actually
+0.0174797826	i try
+0.0174797826	i wasnt
+0.0174797826	to work
+0.0173964493	still not
+0.0173964493	side of
+0.0172297826	since i
+0.0172297826	i put
+0.0172297826	i really
+0.0172297826	i used
+0.0172297826	i went
+0.0172297826	to help
+0.0172059731	if anybody
+0.0172059731	all around
+0.0172059731	think about
+0.0172059731	know about
+0.0170797826	at first
+0.0170631159	anything like
+0.0170631159	same time
+0.0168297826	i came
+0.0167297826	the sub
+0.0167297826	possible to
+0.0167097826	i use
+0.0164797826	the most
+0.0164797826	the hell
+0.0164797826	i still
+0.0164797826	i find
+0.0164797826	i only
+0.0164797826	to know
+0.0164797826	while i
+0.0164797826	before i
+0.0164797826	work with
+0.0163964493	see if
+0.0162297826	looking to
+0.0162297826	way to
+0.0162297826	i said
+0.0162297826	to ask
+0.0161464493	if im
+0.0160631159	thats not
+0.0158297826	i make
+0.0158297826	i ever
+0.0158297826	i take
+0.0158297826	i definitely
+0.0158297826	once i
+0.0158297826	though i
+0.0157297826	not too
+0.0157297826	the full
+0.0157297826	although i
+0.0157297826	put in
+0.0155631159	back in
+0.0155559731	too good
+0.0154797826	this isnt
+0.0154797826	i keep
+0.0154797826	i ask
+0.0154797826	all good
+0.0152297826	to give
+0.0152297826	to put
+0.0152297826	went to
+0.0152059731	even just
+0.0150797826	no need
+0.0150631159	all over
+0.0150631159	help with
+0.0150631159	all day
+0.0147297826	i wont
+0.0147297826	to show
+0.0144797826	tried to
+0.0144797826	to let
+0.0144797826	a way
+0.0144797826	came to
+0.0143964493	to believe
+0.0141464493	enough for
+0.0141464493	enough to
+0.0138297826	got to
+0.0137464493	no more
+0.0137297826	i usually
+0.0137297826	to tell
+0.0134964493	a try
+0.0134797826	to look
+0.0134797826	go with
+0.0133964493	a g
+0.0130797826	hes not
+0.0128297826	i say
+0.0128131159	for sure
+0.0123059731	i look
+0.0120797826	the following
+0.0120797826	come in
